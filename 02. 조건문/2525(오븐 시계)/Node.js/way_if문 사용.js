@@ -16,10 +16,9 @@ const H = parseInt(input[0].split(' ')[0]);
 const M = parseInt(input[0].split(' ')[1]);
 const cook = parseInt(input[1]);
 
-
-(M + cook) >= 60 ?  console.log(`${H+1} ${M + cook - 60}`) :  console.log(`${H} ${M+cook}`);
-// if((M + cook) >= 60) {
-//     console.log(`${H+1} ${M + cook - 60}`)
-// } else {
-//     console.log(`${H} ${M+cook}`);
-// };
+let resultH = Math.floor((H * 60 + M + cook) / 60);
+let resultM = (H * 60 + M + cook)%60;
+if(resultH >= 24) {
+    resultH -= 24;
+}
+console.log(`${resultH} ${resultM}`);
