@@ -7,7 +7,12 @@ const input = fs.readFileSync('dev/stdin').toString().split(' ');
 
 const H = parseInt(input[0]);
 const M = parseInt(input[1]);
-const time = H * 60 + M;
+
+if(H == 0 && M < 45) {
+    var time = 24 * 60 + M;
+} else {
+    var time = H * 60 + M;
+};
 
 let alarmTime = time - 45;
 let alarmH = parseInt(alarmTime/60);
