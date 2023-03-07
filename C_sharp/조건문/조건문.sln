@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1330(두 수 비교하기)", "1330(두 수 비교하기)\1330(두 수 비교하기).csproj", "{807B5B5A-AE6B-4699-B181-1444E0F3638C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9498(시험 성적)", "9498(시험 성적)\9498(시험 성적).csproj", "{90F249FE-2384-4D1F-9C4F-26588E685DA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{807B5B5A-AE6B-4699-B181-1444E0F3638C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{807B5B5A-AE6B-4699-B181-1444E0F3638C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{807B5B5A-AE6B-4699-B181-1444E0F3638C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F249FE-2384-4D1F-9C4F-26588E685DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F249FE-2384-4D1F-9C4F-26588E685DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F249FE-2384-4D1F-9C4F-26588E685DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F249FE-2384-4D1F-9C4F-26588E685DA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
