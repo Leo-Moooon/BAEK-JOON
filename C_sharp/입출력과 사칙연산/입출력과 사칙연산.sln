@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11382(꼬마 정민)", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10171(고양이)", "..\C__sharp\10171(고양이)\10171(고양이).csproj", "{C2334087-99A1-4B09-9778-D42A76A092E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10172(개)", "..\C__sharp\10172(개)\10172(개).csproj", "{6EA0F06E-8644-4974-9CE6-F18F9CBC63D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C2334087-99A1-4B09-9778-D42A76A092E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2334087-99A1-4B09-9778-D42A76A092E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2334087-99A1-4B09-9778-D42A76A092E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA0F06E-8644-4974-9CE6-F18F9CBC63D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA0F06E-8644-4974-9CE6-F18F9CBC63D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA0F06E-8644-4974-9CE6-F18F9CBC63D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA0F06E-8644-4974-9CE6-F18F9CBC63D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

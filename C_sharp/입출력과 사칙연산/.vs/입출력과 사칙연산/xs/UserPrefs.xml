@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{E2911278-4BE0-4425-86CC-DF07DFE75792}|Default">
+﻿<Properties StartupConfiguration="{C2334087-99A1-4B09-9778-D42A76A092E0}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.2588_228곱셈_229 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.11382_228꼬마_220정민_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10172_228개_229 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.2557_228Hello_220World_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.10171_228고양이_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10171_228고양이_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>../C_sharp/1000(A+B)/1000(A+B).csproj</String>
     <String>../C_sharp/1001(A-B)/1001(A-B).csproj</String>
