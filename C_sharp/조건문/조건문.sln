@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14681(사분면 고르기)"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2884(알람시계)", "2884(알람시계)\2884(알람시계).csproj", "{C11ACE3C-C6F1-4D1F-8370-F47EC31E02AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2525(오븐시계)", "2525(오븐시계)\2525(오븐시계).csproj", "{BFC88066-2540-4416-ACB8-E1F4C47B9CB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C11ACE3C-C6F1-4D1F-8370-F47EC31E02AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11ACE3C-C6F1-4D1F-8370-F47EC31E02AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11ACE3C-C6F1-4D1F-8370-F47EC31E02AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC88066-2540-4416-ACB8-E1F4C47B9CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC88066-2540-4416-ACB8-E1F4C47B9CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC88066-2540-4416-ACB8-E1F4C47B9CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC88066-2540-4416-ACB8-E1F4C47B9CB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
