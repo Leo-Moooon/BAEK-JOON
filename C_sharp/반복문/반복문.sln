@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2739(구구단)", "2739(구
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10950(A+B -3)", "10950(A+B -3)\10950(A+B -3).csproj", "{03DB93EE-EB38-4666-93C7-29757A76A111}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8393(합)", "8393(합)\8393(합).csproj", "{EDAA6881-2919-4227-BAC5-5259AA63E307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03DB93EE-EB38-4666-93C7-29757A76A111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03DB93EE-EB38-4666-93C7-29757A76A111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03DB93EE-EB38-4666-93C7-29757A76A111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAA6881-2919-4227-BAC5-5259AA63E307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAA6881-2919-4227-BAC5-5259AA63E307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAA6881-2919-4227-BAC5-5259AA63E307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAA6881-2919-4227-BAC5-5259AA63E307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/bin/Debug/net7.0/8393(합)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/bin/Debug/net7.0/8393(합).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/bin/Debug/net7.0/8393(합).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/bin/Debug/net7.0/8393(합).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/bin/Debug/net7.0/8393(합).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/refint/8393(합).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/8393(합).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/8393(합)/obj/Debug/net7.0/ref/8393(합).dll
