@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{03DB93EE-EB38-4666-93C7-29757A76A111}|Default">
+﻿<Properties StartupConfiguration="{EDAA6881-2919-4227-BAC5-5259AA63E307}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="10950(A+B -3)/10950.cs">
     <Files>
       <File FileName="10950(A+B -3)/10950.cs" Line="18" Column="2" />
@@ -14,7 +14,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.2739_228구구단_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.8393_228합_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.8393_228합_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.25304_228영수증_229 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

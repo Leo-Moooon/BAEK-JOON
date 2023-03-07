@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/bin/Debug/net7.0/25304(영수증)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/bin/Debug/net7.0/25304(영수증).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/bin/Debug/net7.0/25304(영수증).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/bin/Debug/net7.0/25304(영수증).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/bin/Debug/net7.0/25304(영수증).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/refint/25304(영수증).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/25304(영수증).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/25304(영수증)/obj/Debug/net7.0/ref/25304(영수증).dll
