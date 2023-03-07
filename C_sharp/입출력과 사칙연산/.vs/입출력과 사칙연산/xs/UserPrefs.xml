@@ -1,5 +1,6 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{E2911278-4BE0-4425-86CC-DF07DFE75792}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2557_228Hello_220World_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <DisabledProjects>
     <String>../C_sharp/1000(A+B)/1000(A+B).csproj</String>
@@ -11,4 +12,5 @@
     <String>../C_sharp/10998(AXB)/10998(AXB).csproj</String>
     <String>../C_sharp/12108(1998년생인 내가)/12108(1998년생인 내가).csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.10430_228나머지_229 FirstBuild="True" />
 </Properties>
