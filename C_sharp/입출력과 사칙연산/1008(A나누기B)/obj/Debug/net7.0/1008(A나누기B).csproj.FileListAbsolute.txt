@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/bin/Debug/net7.0/1008(A나누기B)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/bin/Debug/net7.0/1008(A나누기B).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/bin/Debug/net7.0/1008(A나누기B).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/bin/Debug/net7.0/1008(A나누기B).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/bin/Debug/net7.0/1008(A나누기B).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/refint/1008(A나누기B).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/1008(A나누기B).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1008(A나누기B)/obj/Debug/net7.0/ref/1008(A나누기B).dll

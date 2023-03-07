@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../C_sharp/1000(A+B)/1000(A+B).csproj</String>
+    <String>../C_sharp/1001(A-B)/1001(A-B).csproj</String>
+    <String>../C_sharp/1008(A나누기B)/1008(A나누기B).csproj</String>
+    <String>../C_sharp/2557(Hello World)/2557(Hello World).csproj</String>
+    <String>../C_sharp/10869(사칙연산)/10869(사칙연산).csproj</String>
+    <String>../C_sharp/10926(물음표!)/10926(물음표!).csproj</String>
+    <String>../C_sharp/10998(AXB)/10998(AXB).csproj</String>
+    <String>../C_sharp/12108(1998년생인 내가)/12108(1998년생인 내가).csproj</String>
+  </DisabledProjects>
+</Properties>

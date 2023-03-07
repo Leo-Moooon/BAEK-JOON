@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/bin/Debug/net7.0/10998(AXB)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/bin/Debug/net7.0/10998(AXB).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/bin/Debug/net7.0/10998(AXB).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/bin/Debug/net7.0/10998(AXB).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/bin/Debug/net7.0/10998(AXB).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/refint/10998(AXB).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/10998(AXB).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10998(AXB)/obj/Debug/net7.0/ref/10998(AXB).dll

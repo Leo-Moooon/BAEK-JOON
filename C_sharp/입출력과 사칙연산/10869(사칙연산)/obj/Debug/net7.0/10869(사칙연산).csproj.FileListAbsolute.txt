@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/bin/Debug/net7.0/10869(사칙연산)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/bin/Debug/net7.0/10869(사칙연산).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/bin/Debug/net7.0/10869(사칙연산).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/bin/Debug/net7.0/10869(사칙연산).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/bin/Debug/net7.0/10869(사칙연산).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/refint/10869(사칙연산).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/10869(사칙연산).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/10869(사칙연산)/obj/Debug/net7.0/ref/10869(사칙연산).dll
