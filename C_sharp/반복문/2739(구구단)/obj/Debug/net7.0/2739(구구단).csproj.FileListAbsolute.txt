@@ -1,0 +1,15 @@
+/Users/paul/Projects/반복문/2739(구구단)/bin/Debug/net7.0/2739(구구단)
+/Users/paul/Projects/반복문/2739(구구단)/bin/Debug/net7.0/2739(구구단).deps.json
+/Users/paul/Projects/반복문/2739(구구단)/bin/Debug/net7.0/2739(구구단).runtimeconfig.json
+/Users/paul/Projects/반복문/2739(구구단)/bin/Debug/net7.0/2739(구구단).dll
+/Users/paul/Projects/반복문/2739(구구단)/bin/Debug/net7.0/2739(구구단).pdb
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).csproj.AssemblyReference.cache
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).AssemblyInfoInputs.cache
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).AssemblyInfo.cs
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).csproj.CoreCompileInputs.cache
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).dll
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/refint/2739(구구단).dll
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).pdb
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/2739(구구단).genruntimeconfig.cache
+/Users/paul/Projects/반복문/2739(구구단)/obj/Debug/net7.0/ref/2739(구구단).dll
