@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10998(AXB)", "10998(AXB)\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1008(A나누기B)", "1008(A나누기B)\1008(A나누기B).csproj", "{67F12286-0715-476A-B0C6-1E8EEC7162DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10869(사칙연산)", "10869(사칙연산)\10869(사칙연산).csproj", "{FD67B5A1-B823-4F0C-B7A8-7353C27FA204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{67F12286-0715-476A-B0C6-1E8EEC7162DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F12286-0715-476A-B0C6-1E8EEC7162DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F12286-0715-476A-B0C6-1E8EEC7162DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD67B5A1-B823-4F0C-B7A8-7353C27FA204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD67B5A1-B823-4F0C-B7A8-7353C27FA204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD67B5A1-B823-4F0C-B7A8-7353C27FA204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD67B5A1-B823-4F0C-B7A8-7353C27FA204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
