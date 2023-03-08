@@ -13,6 +13,6 @@ class Program
             int B = int.Parse(AB[1]);
 
             Console.WriteLine(A + B);
-        }
+        } 
     }
 }

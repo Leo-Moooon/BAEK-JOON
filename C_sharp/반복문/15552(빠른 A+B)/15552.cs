@@ -1,15 +1,26 @@
-﻿namespace _15552_빠른_A_B_;
+﻿using System;
+using System.Text;
+
+namespace _15552_빠른_A_B_;
 class Program
 {
     static void Main(string[] args)
     {
-        double T = double.Parse(Console.ReadLine());
+        StringBuilder result = new StringBuilder();
+
+        int T = int.Parse(Console.ReadLine());
+
+        int[] A = new int[T];
+        int[] B = new int[T];
+
         for (int i = 0; i < T; i++)
         {
             string[] str = Console.ReadLine().Split();
-            double A = double.Parse(str[0]);
-            double B = double.Parse(str[1]);
-            Console.WriteLine(A + B);
+            A[i] = int.Parse(str[0]);
+            B[i] = int.Parse(str[1]);
+
+            result.AppendLine((A[i] + B[i]).ToString());
         }
+            Console.WriteLine(result.ToString());
     }
 }
