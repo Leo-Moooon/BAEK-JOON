@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11021(A+B -7)", "11021(A+B 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11022(A+B -8)", "11022\11022(A+B -8).csproj", "{578BF6E2-9CB4-4FC0-998A-E8ACC3161B32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2438(별 찍기 -1)", "2438(별 찍기 -1)\2438(별 찍기 -1).csproj", "{05645BD9-215B-46DF-9386-03E0D8B64F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{578BF6E2-9CB4-4FC0-998A-E8ACC3161B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{578BF6E2-9CB4-4FC0-998A-E8ACC3161B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{578BF6E2-9CB4-4FC0-998A-E8ACC3161B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05645BD9-215B-46DF-9386-03E0D8B64F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05645BD9-215B-46DF-9386-03E0D8B64F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05645BD9-215B-46DF-9386-03E0D8B64F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05645BD9-215B-46DF-9386-03E0D8B64F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
