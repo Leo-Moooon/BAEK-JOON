@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/bin/Debug/net7.0/11022(A+B -8)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/bin/Debug/net7.0/11022(A+B -8).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/bin/Debug/net7.0/11022(A+B -8).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/bin/Debug/net7.0/11022(A+B -8).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/bin/Debug/net7.0/11022(A+B -8).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/refint/11022(A+B -8).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/11022(A+B -8).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/11022/obj/Debug/net7.0/ref/11022(A+B -8).dll

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1957B003-51B7-41FC-A9C3-584CEB6D8A44}|Default">
+﻿<Properties StartupConfiguration="{AB9B68CD-B310-4E8B-AA6F-A6B1A9CC9C70}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="15552(빠른 A+B)/15552.cs">
     <Files>
       <File FileName="15552(빠른 A+B)/15552.cs" Line="10" Column="1" />
@@ -13,7 +13,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.11021_228A_22BB_220-7_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.11021_228A_22BB_220-7_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11022_228A_22BB_220-8_229 FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.15552_228빠른_220A_22BB_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2739_228구구단_229 PreferredExecutionTarget="MonoDevelop.Default" />
