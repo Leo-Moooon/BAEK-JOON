@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{E93B2DCA-E174-4249-8DB2-0A84F63E7482}|Default">
+﻿<Properties StartupConfiguration="{24F83CAA-78E0-4DD2-B1C8-0D4E559A0FC3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="10950(A+B -3)/10950.cs">
     <Files>
       <File FileName="10950(A+B -3)/10950.cs" Line="18" Column="2" />
@@ -13,7 +13,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.25314_228코딩은_220체육과목입니다_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.25314_228코딩은_220체육과목입니다_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2739_228구구단_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.8393_228합_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.25304_228영수증_229 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -22,6 +22,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.10950_228A_22BB_220-3_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.15552_228빠른_220A_22BB_229 FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
