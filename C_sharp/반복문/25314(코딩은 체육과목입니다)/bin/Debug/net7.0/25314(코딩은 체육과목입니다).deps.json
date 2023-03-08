@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "25314(코딩은 체육과목입니다)/1.0.0": {
+        "runtime": {
+          "25314(코딩은 체육과목입니다).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25314(코딩은 체육과목입니다)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8393(합)", "8393(합)\8393
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25304(영수증)", "25304(영수증)\25304(영수증).csproj", "{E93B2DCA-E174-4249-8DB2-0A84F63E7482}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25314(코딩은 체육과목입니다)", "25314(코딩은 체육과목입니다)\25314(코딩은 체육과목입니다).csproj", "{24F83CAA-78E0-4DD2-B1C8-0D4E559A0FC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E93B2DCA-E174-4249-8DB2-0A84F63E7482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E93B2DCA-E174-4249-8DB2-0A84F63E7482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E93B2DCA-E174-4249-8DB2-0A84F63E7482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F83CAA-78E0-4DD2-B1C8-0D4E559A0FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F83CAA-78E0-4DD2-B1C8-0D4E559A0FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F83CAA-78E0-4DD2-B1C8-0D4E559A0FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F83CAA-78E0-4DD2-B1C8-0D4E559A0FC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
