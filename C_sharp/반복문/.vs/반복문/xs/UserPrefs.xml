@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{578BF6E2-9CB4-4FC0-998A-E8ACC3161B32}|Default">
+﻿<Properties StartupConfiguration="{05645BD9-215B-46DF-9386-03E0D8B64F4B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="15552(빠른 A+B)/15552.cs">
     <Files>
       <File FileName="15552(빠른 A+B)/15552.cs" Line="10" Column="1" />
@@ -12,12 +12,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.2439_228별_220찍기_220-2_229 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.11021_228A_22BB_220-7_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.11022_228A_22BB_220-8_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.15552_228빠른_220A_22BB_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.2438_228별_220찍기_220-1_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.2438_228별_220찍기_220-1_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2739_228구구단_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.8393_228합_229 PreferredExecutionTarget="MonoDevelop.Default" />

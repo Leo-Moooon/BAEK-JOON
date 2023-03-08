@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/bin/Debug/net7.0/2439(별 찍기 -2)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/bin/Debug/net7.0/2439(별 찍기 -2).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/bin/Debug/net7.0/2439(별 찍기 -2).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/bin/Debug/net7.0/2439(별 찍기 -2).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/bin/Debug/net7.0/2439(별 찍기 -2).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/refint/2439(별 찍기 -2).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/2439(별 찍기 -2).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/반복문/2439(별 찍기 -2)/obj/Debug/net7.0/ref/2439(별 찍기 -2).dll
