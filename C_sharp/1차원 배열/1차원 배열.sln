@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10807(개수 세기)", "108
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10871(X보다 작은 수)", "10871(X보다 작은 수)\10871(X보다 작은 수).csproj", "{DC38030E-8C8F-44F5-B078-61E9325D7876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10818(최소, 최대)", "10818(최소, 최대)\10818(최소, 최대).csproj", "{38182745-AF4E-4148-8E5A-A470DEC07104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38182745-AF4E-4148-8E5A-A470DEC07104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38182745-AF4E-4148-8E5A-A470DEC07104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38182745-AF4E-4148-8E5A-A470DEC07104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38182745-AF4E-4148-8E5A-A470DEC07104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
