@@ -1,11 +1,8 @@
-﻿using System;
-using System.Text;
-namespace _10952_A_B__5_;
+﻿namespace _10952_A_B__5_;
 class Program
 {
     static void Main(string[] args)
     {
-        StringBuilder input = new StringBuilder();
         int A = 1, B = 1;
         string result = "";
 
