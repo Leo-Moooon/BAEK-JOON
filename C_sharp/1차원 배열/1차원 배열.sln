@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10807(개수 세기)", "10807(개수 세기)\10807(개수 세기).csproj", "{10F858A8-294D-417B-840A-4BC914E729EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10871(X보다 작은 수)", "10871(X보다 작은 수)\10871(X보다 작은 수).csproj", "{DC38030E-8C8F-44F5-B078-61E9325D7876}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{10F858A8-294D-417B-840A-4BC914E729EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F858A8-294D-417B-840A-4BC914E729EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F858A8-294D-417B-840A-4BC914E729EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC38030E-8C8F-44F5-B078-61E9325D7876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
