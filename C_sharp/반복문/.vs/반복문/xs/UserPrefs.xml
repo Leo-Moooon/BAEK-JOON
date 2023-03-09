@@ -1,31 +1,25 @@
-﻿<Properties StartupConfiguration="{64F8E16C-1B20-41C9-B2BD-616689A29A21}|Default">
+﻿<Properties StartupConfiguration="{3DF170CF-22FD-4B42-AA17-F02194D58150}|Default">
   <MonoDevelop.Ide.ItemProperties.8393_228합_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10950_228A_22BB_220-3_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.2739_228구구단_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.25304_228영수증_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.25314_228코딩은_220체육과목입니다_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.10591_228A_22BB_220-4_229 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="10952(A+B -5)/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10591(A+B -4)/10591.cs">
     <Files>
-      <File FileName="10952(A+B -5)/Program.cs" Line="25" Column="2" />
-      <File FileName="15552(빠른 A+B)/15552.cs" Line="1" Column="1" />
+      <File FileName="10952(A+B -5)/Program.cs" Line="22" Column="2" />
+      <File FileName="15552(빠른 A+B)/15552.cs" />
+      <File FileName="10591(A+B -4)/Program.cs" Line="9" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="반복문" expanded="True">
-            <Node name="10952(A+B -5)" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="15552(빠른 A+B)" expanded="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.11022_228A_22BB_220-8_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.10951_228A_22BB_220-4_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.15552_228빠른_220A_22BB_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2438_228별_220찍기_220-1_229 PreferredExecutionTarget="MonoDevelop.Default" />
