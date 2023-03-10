@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2562(최댓값)", "2562(최
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10810(공 넣기)", "10810(공 넣기)\10810(공 넣기).csproj", "{A36DE334-9D00-472E-B407-87807249029E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10813(공 바꾸기)", "10813(공 바꾸기)\10813(공 바꾸기).csproj", "{419CD359-194F-4023-B482-BBD0FB70A968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A36DE334-9D00-472E-B407-87807249029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A36DE334-9D00-472E-B407-87807249029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A36DE334-9D00-472E-B407-87807249029E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419CD359-194F-4023-B482-BBD0FB70A968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419CD359-194F-4023-B482-BBD0FB70A968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419CD359-194F-4023-B482-BBD0FB70A968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419CD359-194F-4023-B482-BBD0FB70A968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

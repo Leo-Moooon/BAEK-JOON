@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/bin/Debug/net7.0/10813(공 바꾸기)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/bin/Debug/net7.0/10813(공 바꾸기).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/bin/Debug/net7.0/10813(공 바꾸기).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/bin/Debug/net7.0/10813(공 바꾸기).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/bin/Debug/net7.0/10813(공 바꾸기).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/refint/10813(공 바꾸기).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/10813(공 바꾸기).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/10813(공 바꾸기)/obj/Debug/net7.0/ref/10813(공 바꾸기).dll
