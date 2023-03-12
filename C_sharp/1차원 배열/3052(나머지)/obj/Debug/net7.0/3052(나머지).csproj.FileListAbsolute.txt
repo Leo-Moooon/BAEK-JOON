@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/bin/Debug/net7.0/3052(나머지)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/bin/Debug/net7.0/3052(나머지).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/bin/Debug/net7.0/3052(나머지).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/bin/Debug/net7.0/3052(나머지).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/bin/Debug/net7.0/3052(나머지).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/refint/3052(나머지).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/3052(나머지).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/3052(나머지)/obj/Debug/net7.0/ref/3052(나머지).dll

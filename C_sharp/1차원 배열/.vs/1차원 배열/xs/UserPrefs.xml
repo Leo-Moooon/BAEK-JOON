@@ -1,8 +1,13 @@
 ﻿<Properties StartupConfiguration="{2E1CD483-2ED8-43FF-9CD5-4A4B4487C528}|Default">
-  <MonoDevelop.Ide.ItemProperties.5597_228과제_220안_220내신_220분_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10818_228최소_22C_220최대_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10810_228공_220넣기_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10871_228X보다_220작은_220수_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10813_228공_220바꾸기_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2562_228최댓값_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.10807_228개수_220세기_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3052_228나머지_229 FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="5597(과제 안 내신 분)/5597.cs">
     <Files>
       <File FileName="5597(과제 안 내신 분)/5597.cs" Line="19" Column="30" />
@@ -19,13 +24,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.10818_228최소_22C_220최대_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.2562_228최댓값_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.10810_228공_220넣기_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.10871_228X보다_220작은_220수_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10807_228개수_220세기_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5597_228과제_220안_220내신_220분_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
