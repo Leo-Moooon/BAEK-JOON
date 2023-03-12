@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/bin/Debug/net7.0/5597(과제 안 내신 분)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/bin/Debug/net7.0/5597(과제 안 내신 분).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/bin/Debug/net7.0/5597(과제 안 내신 분).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/bin/Debug/net7.0/5597(과제 안 내신 분).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/bin/Debug/net7.0/5597(과제 안 내신 분).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/refint/5597(과제 안 내신 분).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/5597(과제 안 내신 분).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/obj/Debug/net7.0/ref/5597(과제 안 내신 분).dll

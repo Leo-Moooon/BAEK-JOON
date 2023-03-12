@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "5597(과제 안 내신 분)/1.0.0": {
+        "runtime": {
+          "5597(과제 안 내신 분).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5597(과제 안 내신 분)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

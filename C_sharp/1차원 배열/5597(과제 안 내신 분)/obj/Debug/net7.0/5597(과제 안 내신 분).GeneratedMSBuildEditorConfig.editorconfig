@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _5597_과제_안_내신_분_
+build_property.ProjectDir = /Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/5597(과제 안 내신 분)/
