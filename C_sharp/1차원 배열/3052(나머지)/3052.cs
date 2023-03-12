@@ -23,4 +23,3 @@ class Program
         Console.WriteLine(newNum.Length);
     }
 }
-
