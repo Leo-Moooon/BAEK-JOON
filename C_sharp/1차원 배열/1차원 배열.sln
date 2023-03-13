@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3052(나머지)", "3052(나
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10811(바구니 뒤집기)", "10811(바구니 뒤집기)\10811(바구니 뒤집기).csproj", "{F542BE1C-1C0E-4046-8E11-43A49929AE28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1546(평균)", "1546(평균)\1546(평균).csproj", "{9F3B7672-723C-443B-B43D-904F0E9FA776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F542BE1C-1C0E-4046-8E11-43A49929AE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F542BE1C-1C0E-4046-8E11-43A49929AE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F542BE1C-1C0E-4046-8E11-43A49929AE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3B7672-723C-443B-B43D-904F0E9FA776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3B7672-723C-443B-B43D-904F0E9FA776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3B7672-723C-443B-B43D-904F0E9FA776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3B7672-723C-443B-B43D-904F0E9FA776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

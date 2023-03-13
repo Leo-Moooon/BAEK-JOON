@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{2098BC13-B5A1-43CF-8660-AB18A55A179F}|Default">
+﻿<Properties StartupConfiguration="{F542BE1C-1C0E-4046-8E11-43A49929AE28}|Default">
   <MonoDevelop.Ide.ItemProperties.10818_228최소_22C_220최대_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10810_228공_220넣기_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10871_228X보다_220작은_220수_229 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -24,8 +24,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.10811_228바구니_220뒤집기_229 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10811_228바구니_220뒤집기_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10807_228개수_220세기_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1546_228평균_229 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.5597_228과제_220안_220내신_220분_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

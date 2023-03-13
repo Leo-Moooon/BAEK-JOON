@@ -1,0 +1,15 @@
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/bin/Debug/net7.0/1546(평균)
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/bin/Debug/net7.0/1546(평균).deps.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/bin/Debug/net7.0/1546(평균).runtimeconfig.json
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/bin/Debug/net7.0/1546(평균).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/bin/Debug/net7.0/1546(평균).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).csproj.AssemblyReference.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).AssemblyInfoInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).AssemblyInfo.cs
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).csproj.CoreCompileInputs.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/refint/1546(평균).dll
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).pdb
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/1546(평균).genruntimeconfig.cache
+/Users/paul/Library/Mobile Documents/com~apple~CloudDocs/GitHub/BAEK-JOON/C_sharp/1차원 배열/1546(평균)/obj/Debug/net7.0/ref/1546(평균).dll
